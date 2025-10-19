@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "name": "Push-up",
+    "description": "Push-up exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 2,
+    "name": "Pull-up",
+    "description": "Pull-up exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "reps"
+  },
+  {
+    "id": 3,
+    "name": "Squat",
+    "description": "Squat exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "meters"
+  },
+  {
+    "id": 4,
+    "name": "Lunge",
+    "description": "Lunge exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 5,
+    "name": "Bench Press",
+    "description": "Bench Press exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 6,
+    "name": "Deadlift",
+    "description": "Deadlift exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 7,
+    "name": "Shoulder Press",
+    "description": "Shoulder Press exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 8,
+    "name": "Bicep Curl",
+    "description": "Bicep Curl exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 9,
+    "name": "Tricep Dip",
+    "description": "Tricep Dip exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 10,
+    "name": "Plank",
+    "description": "Plank exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 11,
+    "name": "Mountain Climbers",
+    "description": "Mountain Climbers exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 12,
+    "name": "Burpee",
+    "description": "Burpee exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 13,
+    "name": "Jumping Jacks",
+    "description": "Jumping Jacks exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "meters"
+  },
+  {
+    "id": 14,
+    "name": "Chest Fly",
+    "description": "Chest Fly exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "meters"
+  },
+  {
+    "id": 15,
+    "name": "Leg Press",
+    "description": "Leg Press exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 16,
+    "name": "Lat Pulldown",
+    "description": "Lat Pulldown exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 17,
+    "name": "Overhead Squat",
+    "description": "Overhead Squat exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 18,
+    "name": "Calf Raise",
+    "description": "Calf Raise exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 19,
+    "name": "Glute Bridge",
+    "description": "Glute Bridge exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 20,
+    "name": "Russian Twist",
+    "description": "Russian Twist exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 21,
+    "name": "Hip Thrust",
+    "description": "Hip Thrust exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 22,
+    "name": "Farmer's Walk",
+    "description": "Farmer's Walk exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "meters"
+  },
+  {
+    "id": 23,
+    "name": "Kettlebell Swing",
+    "description": "Kettlebell Swing exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 24,
+    "name": "Box Jump",
+    "description": "Box Jump exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 25,
+    "name": "High Knees",
+    "description": "High Knees exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "reps"
+  },
+  {
+    "id": 26,
+    "name": "Side Plank",
+    "description": "Side Plank exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 27,
+    "name": "Incline Bench Press",
+    "description": "Incline Bench Press exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 28,
+    "name": "Decline Push-up",
+    "description": "Decline Push-up exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "reps"
+  },
+  {
+    "id": 29,
+    "name": "Front Squat",
+    "description": "Front Squat exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 30,
+    "name": "Good Morning",
+    "description": "Good Morning exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "meters"
+  },
+  {
+    "id": 31,
+    "name": "Arnold Press",
+    "description": "Arnold Press exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 32,
+    "name": "Hammer Curl",
+    "description": "Hammer Curl exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 33,
+    "name": "Concentration Curl",
+    "description": "Concentration Curl exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 34,
+    "name": "Skull Crusher",
+    "description": "Skull Crusher exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 35,
+    "name": "Cable Row",
+    "description": "Cable Row exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 36,
+    "name": "Seated Row",
+    "description": "Seated Row exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 37,
+    "name": "Face Pull",
+    "description": "Face Pull exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 38,
+    "name": "Leg Extension",
+    "description": "Leg Extension exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 39,
+    "name": "Hamstring Curl",
+    "description": "Hamstring Curl exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "reps"
+  },
+  {
+    "id": 40,
+    "name": "Step-up",
+    "description": "Step-up exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 41,
+    "name": "Bulgarian Split Squat",
+    "description": "Bulgarian Split Squat exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 42,
+    "name": "Donkey Kick",
+    "description": "Donkey Kick exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 43,
+    "name": "Fire Hydrant",
+    "description": "Fire Hydrant exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "reps"
+  },
+  {
+    "id": 44,
+    "name": "Side Lunge",
+    "description": "Side Lunge exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "meters"
+  },
+  {
+    "id": 45,
+    "name": "Curtsy Lunge",
+    "description": "Curtsy Lunge exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 46,
+    "name": "Sumo Squat",
+    "description": "Sumo Squat exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 47,
+    "name": "Romanian Deadlift",
+    "description": "Romanian Deadlift exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 48,
+    "name": "Hip Abduction",
+    "description": "Hip Abduction exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 49,
+    "name": "Hip Adduction",
+    "description": "Hip Adduction exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 50,
+    "name": "Hanging Leg Raise",
+    "description": "Hanging Leg Raise exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 51,
+    "name": "Ab Wheel Rollout",
+    "description": "Ab Wheel Rollout exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "meters"
+  },
+  {
+    "id": 52,
+    "name": "Side Crunch",
+    "description": "Side Crunch exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 53,
+    "name": "Cable Crunch",
+    "description": "Cable Crunch exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "meters"
+  },
+  {
+    "id": 54,
+    "name": "Toe Touches",
+    "description": "Toe Touches exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 55,
+    "name": "Hollow Hold",
+    "description": "Hollow Hold exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 56,
+    "name": "Wall Sit",
+    "description": "Wall Sit exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 57,
+    "name": "Jump Squat",
+    "description": "Jump Squat exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 58,
+    "name": "Pistol Squat",
+    "description": "Pistol Squat exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 59,
+    "name": "Overhead Lunge",
+    "description": "Overhead Lunge exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 60,
+    "name": "Thruster",
+    "description": "Thruster exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "meters"
+  },
+  {
+    "id": 61,
+    "name": "Clean and Press",
+    "description": "Clean and Press exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 62,
+    "name": "Snatch",
+    "description": "Snatch exercise to target strength and conditioning.",
+    "category": "HIIT",
+    "default_unit": "reps"
+  },
+  {
+    "id": 63,
+    "name": "Power Clean",
+    "description": "Power Clean exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "meters"
+  },
+  {
+    "id": 64,
+    "name": "Front Raise",
+    "description": "Front Raise exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 65,
+    "name": "Lateral Raise",
+    "description": "Lateral Raise exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 66,
+    "name": "Rear Delt Fly",
+    "description": "Rear Delt Fly exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 67,
+    "name": "Shrug",
+    "description": "Shrug exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 68,
+    "name": "Chest Press Machine",
+    "description": "Chest Press Machine exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "reps"
+  },
+  {
+    "id": 69,
+    "name": "Leg Curl Machine",
+    "description": "Leg Curl Machine exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 70,
+    "name": "Hack Squat",
+    "description": "Hack Squat exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "reps"
+  },
+  {
+    "id": 71,
+    "name": "Smith Machine Squat",
+    "description": "Smith Machine Squat exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 72,
+    "name": "Incline Dumbbell Press",
+    "description": "Incline Dumbbell Press exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 73,
+    "name": "Cable Crossover",
+    "description": "Cable Crossover exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 74,
+    "name": "Pec Deck Fly",
+    "description": "Pec Deck Fly exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 75,
+    "name": "Landmine Press",
+    "description": "Landmine Press exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "meters"
+  },
+  {
+    "id": 76,
+    "name": "T-Bar Row",
+    "description": "T-Bar Row exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "reps"
+  },
+  {
+    "id": 77,
+    "name": "Pendlay Row",
+    "description": "Pendlay Row exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 78,
+    "name": "Single-Arm Row",
+    "description": "Single-Arm Row exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 79,
+    "name": "Renegade Row",
+    "description": "Renegade Row exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 80,
+    "name": "Dip Machine",
+    "description": "Dip Machine exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 81,
+    "name": "Pull-over",
+    "description": "Pull-over exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "meters"
+  },
+  {
+    "id": 82,
+    "name": "Incline Curl",
+    "description": "Incline Curl exercise to target strength and conditioning.",
+    "category": "Cardio",
+    "default_unit": "reps"
+  },
+  {
+    "id": 83,
+    "name": "Preacher Curl",
+    "description": "Preacher Curl exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 84,
+    "name": "Zottman Curl",
+    "description": "Zottman Curl exercise to target strength and conditioning.",
+    "category": "Mobility",
+    "default_unit": "meters"
+  },
+  {
+    "id": 85,
+    "name": "Overhead Tricep Extension",
+    "description": "Overhead Tricep Extension exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 86,
+    "name": "Kickback",
+    "description": "Kickback exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 87,
+    "name": "Glute Kickback Machine",
+    "description": "Glute Kickback Machine exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 88,
+    "name": "Leg Adduction Machine",
+    "description": "Leg Adduction Machine exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 89,
+    "name": "Hip Thrust Machine",
+    "description": "Hip Thrust Machine exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "reps"
+  },
+  {
+    "id": 90,
+    "name": "Sled Push",
+    "description": "Sled Push exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "reps"
+  },
+  {
+    "id": 91,
+    "name": "Battle Rope Slam",
+    "description": "Battle Rope Slam exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 92,
+    "name": "Medicine Ball Slam",
+    "description": "Medicine Ball Slam exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 93,
+    "name": "Box Step-over",
+    "description": "Box Step-over exercise to target strength and conditioning.",
+    "category": "Stretching",
+    "default_unit": "meters"
+  },
+  {
+    "id": 94,
+    "name": "Bear Crawl",
+    "description": "Bear Crawl exercise to target strength and conditioning.",
+    "category": "Strength",
+    "default_unit": "seconds"
+  },
+  {
+    "id": 95,
+    "name": "Jump Rope",
+    "description": "Jump Rope exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  },
+  {
+    "id": 96,
+    "name": "Rowing Machine",
+    "description": "Rowing Machine exercise to target strength and conditioning.",
+    "category": "Endurance",
+    "default_unit": "meters"
+  }
+]
