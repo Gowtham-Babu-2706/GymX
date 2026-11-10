@@ -1,5 +1,5 @@
 
-const BASE_URL = import.meta.env.VITE_API_URL || ''
+const BASE_URL = 'https://gymx-qxb8.onrender.com'
 
 export class ApiError extends Error {
   constructor(message, status, data) {
