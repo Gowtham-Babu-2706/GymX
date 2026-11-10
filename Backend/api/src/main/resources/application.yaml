@@ -16,8 +16,7 @@ spring:
     properties:
       hibernate:
         format_sql: true
-
-server:
+    open-in-view=false:server:
   port: ${PORT:8080}
 
 gymx:
@@ -32,3 +31,4 @@ management:
   endpoint:
     health:
       show-details: never
+
